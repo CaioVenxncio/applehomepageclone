@@ -23,9 +23,10 @@ Este é um projeto fictício que representa uma página de produto para o iPhone
 
 2. Navegue até o diretório do projeto:
 
+   ```bash
    cd iphone-13-pro
 
-3. Abra o arquivo index.html em seu navegador preferido para visualizar a página.
+4. Abra o arquivo index.html em seu navegador preferido para visualizar a página.
 
 ## Estrutura do Projeto
 
